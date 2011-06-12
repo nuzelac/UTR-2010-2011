@@ -1,7 +1,0 @@
-Stanje1,Stanje2,Stanje3,Stanje4,Stanje5,q3
-a,b,c,d
-Stanje2,Stanje5,q3
-Stanje1,Stanje2
-Stanje1,a->Stanje2
-Stanje3,b->q3,Stanje2
-Stanje2,$->Stanje5
